@@ -1,0 +1,25 @@
+.main-content {
+    padding: 24px;
+    background: #f5f7fa;
+    min-height: calc(100vh - 56px);
+}
+
+.navbar-brand {
+    font-weight: 700;
+}
+.navbar {
+    direction: rtl;
+}
+
+.navbar-brand {
+    margin-left: 2rem;
+    margin-right: 0;
+}
+
+.navbar-nav {
+    gap: 0.5rem;
+}
+
+.main-content {
+    direction: rtl;
+}

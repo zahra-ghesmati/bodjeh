@@ -1,0 +1,19 @@
+# محیط مجازی
+venv/
+
+# فایل‌های موقت پایتون
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# اطلاعات حساس
+.env
+
+# فایل‌های IDE
+.vscode/
+.idea/
+
+#bakups
+*.zip
+*.exe
